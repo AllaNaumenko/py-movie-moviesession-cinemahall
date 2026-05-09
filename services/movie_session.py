@@ -1,5 +1,7 @@
-from typing import QuerySet, Optional
 from datetime import datetime
+from typing import Optional
+from django.db.models import QuerySet
+
 from db.models import MovieSession
 
 

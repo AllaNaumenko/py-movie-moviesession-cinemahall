@@ -1,4 +1,6 @@
-from typing import QuerySet, Optional, List
+from typing import Optional, List
+from django.db.models import QuerySet
+
 from db.models import Movie
 
 
